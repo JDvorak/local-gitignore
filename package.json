@@ -1,0 +1,22 @@
+{
+  "name": "local-gitignore",
+  "version": "1.0.0",
+  "description": "Filter filepaths with local .gitignore",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JDvorak/local-gitignore.git"
+  },
+  "author": {
+    "name": "John Dvorak",
+    "email": "twelvetwo@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ignore": "^3.2.0",
+    "utils-upsearch": "^1.0.1"
+  }
+}
