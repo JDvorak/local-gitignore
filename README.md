@@ -24,6 +24,8 @@ old/
 var ig = require('local-gitignore')
 ```
 
+local-gitignore provides all the methods provided by the [ignore][ignore] library.
+
 ### Filter the given paths
 
 ```js
