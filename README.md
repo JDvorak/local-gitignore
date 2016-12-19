@@ -1,6 +1,7 @@
 # local-gitignore
 
 [`ignore`][ignore] is a tool which implements in pure JavaScript the .gitignore [spec](http://git-scm.com/docs/gitignore).
+
 [`upsearch`][upsearch] is a tool for finding files in parent directories.
 
 Together a micro utility library is born. 
